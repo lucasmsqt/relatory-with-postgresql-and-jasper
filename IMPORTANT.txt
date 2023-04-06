@@ -1,0 +1,1 @@
+For the code to work, just change to your POSTGRESQL database in the Dataset and Query Dialog of the jrxml file in Jasper.  :)
